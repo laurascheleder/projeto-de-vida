@@ -1,0 +1,19 @@
+:root{
+    --cor-de-fundo:
+    rgba(17, 238, 238, 0.933);
+    --cor-de-fundo: #c4baf048;
+    --cor-de-fundo:#9ac9f048;
+    --botao-ativo:#e99fc4;
+    --botao-inativo:var rgba(-58, 55, 94, 0.5);
+    --texto-fundo:var(58, 55, 94, 0.3);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+
+
+   
